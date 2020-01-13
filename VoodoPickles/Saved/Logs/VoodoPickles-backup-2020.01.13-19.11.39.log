@@ -1,0 +1,1494 @@
+﻿Log file open, 01/12/20 14:50:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VoodoPickles
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063612
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.12-13.50.07:267][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.12-13.50.07:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:268][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:276][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-13.50.07:276][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-13.50.07:277][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-13.50.07:277][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-13.50.07:277][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.12-13.50.07:281][  0]LogHAL: Display: Platform has ~ 16 GB [17095188480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.12-13.50.07:281][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.12-13.50.07:281][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-13.50.07:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.12-13.50.07:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/SNACK/VoodoPickles/VoodoPickles/Saved/Config/Windows/Engine.ini]
+[2020.01.12-13.50.07:282][  0]LogInit: Computer: ARTEMPC
+[2020.01.12-13.50.07:282][  0]LogInit: User: Artem
+[2020.01.12-13.50.07:282][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.12-13.50.07:282][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.12-13.50.07:282][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.12-13.50.07:282][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.12-13.50.07:282][  0]LogMemory: Process Physical Memory: 101.41 MB used, 101.41 MB peak
+[2020.01.12-13.50.07:282][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2020.01.12-13.50.07:282][  0]LogMemory: Physical Memory: 6643.20 MB used,  9660.04 MB free, 16303.24 MB total
+[2020.01.12-13.50.07:282][  0]LogMemory: Virtual Memory: 4668.48 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.01.12-13.50.07:286][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.12-13.50.07:303][  0]LogInit: Using OS detected language (en-US).
+[2020.01.12-13.50.07:303][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.12-13.50.07:304][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.12-13.50.07:438][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.12-13.50.07:476][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.12-13.50.07:476][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.12-13.50.07:620][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2020.01.12-13.50.07:620][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.12-13.50.07:683][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.01.12-13.50.07:683][  0]LogD3D11RHI:       4043/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.12-13.50.07:685][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.12-13.50.07:685][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.12-13.50.07:685][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.12-13.50.07:691][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.12-13.50.07:691][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.12-13.50.07:691][  0]LogWindows: EnumDisplayDevices:
+[2020.01.12-13.50.07:691][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.01.12-13.50.07:691][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.01.12-13.50.07:692][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.12-13.50.07:692][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.12-13.50.07:692][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.12-13.50.07:692][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.01.12-13.50.07:692][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2020.01.12-13.50.07:692][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2020.01.12-13.50.07:692][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.01.12-13.50.07:729][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.12-13.50.07:753][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.12-13.50.08:042][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.12-13.50.08:049][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.12-13.50.08:057][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.12-13.50.08:064][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.12-13.50.08:070][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.12-13.50.08:077][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.12-13.50.08:084][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.12-13.50.08:091][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.12-13.50.08:094][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.12-13.50.08:121][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.12-13.50.08:122][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.12-13.50.08:137][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.12-13.50.08:137][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.12-13.50.08:149][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.12-13.50.08:149][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.12-13.50.08:155][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.12-13.50.08:161][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.12-13.50.08:166][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.12-13.50.08:173][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.12-13.50.08:195][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.12-13.50.08:195][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.12-13.50.08:195][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.12-13.50.08:205][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.12-13.50.08:243][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (F:/SNACK/VoodoPickles/VoodoPickles/Intermediate/Shaders/WorkingDirectory/11692/).
+[2020.01.12-13.50.08:243][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/94F640404E181DBADC994BAC395197DF/'.
+[2020.01.12-13.50.08:245][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.12-13.50.08:245][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.12-13.50.08:245][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.12-13.50.08:763][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.12-13.50.08:806][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Artem/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.12-13.50.08:806][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.12-13.50.08:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/SNACK/VoodoPickles/VoodoPickles/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.12-13.50.08:807][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.12-13.50.08:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/SNACK/VoodoPickles/VoodoPickles/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-13.50.08:807][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.12-13.50.08:816][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.12-13.50.08:816][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-13.50.08:816][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.12-13.50.08:818][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.12-13.50.08:818][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.12-13.50.08:818][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.12-13.50.08:837][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.12-13.50.08:839][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.12-13.50.08:839][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.12-13.50.08:886][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.01.12-13.50.09:108][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-13.50.09:231][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.12-13.50.09:231][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.12-13.50.09:231][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.12-13.50.09:231][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.12-13.50.09:231][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.12-13.50.09:238][  0]LogNetVersion: VoodoPickles 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1917397578)
+[2020.01.12-13.50.10:084][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.546224 seconds
+[2020.01.12-13.50.10:095][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.12-13.50.10:095][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.12-13.50.10:095][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.12-13.50.10:840][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.12-13.50.10:842][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.12-13.50.10:887][  0]SourceControl: Source control is disabled
+[2020.01.12-13.50.10:887][  0]SourceControl: Source control is disabled
+[2020.01.12-13.50.10:888][  0]SourceControl: Source control is disabled
+[2020.01.12-13.50.10:889][  0]SourceControl: Source control is disabled
+[2020.01.12-13.50.10:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.12-13.50.10:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.12-13.50.10:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.12-13.50.11:157][  0]LogOcInput: OculusInput pre-init called
+[2020.01.12-13.50.11:163][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.12-13.50.11:163][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.12-13.50.11:218][  0]LogEngine: Initializing Engine...
+[2020.01.12-13.50.11:222][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2020.01.12-13.50.11:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.12-13.50.11:402][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.12-13.50.11:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.12-13.50.11:475][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-13.50.11:504][  0]LogInit: FAudioDevice initialized.
+[2020.01.12-13.50.11:505][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.12-13.50.11:584][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Artem/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.12-13.50.11:587][  0]LogInit: Texture streaming: Enabled
+[2020.01.12-13.50.11:603][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.12-13.50.11:603][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.12-13.50.11:608][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.12-13.50.11:657][  0]LogInit: Transaction tracking system initialized
+[2020.01.12-13.50.11:680][  0]BlueprintLog: New page: Editor Load
+[2020.01.12-13.50.11:735][  0]LocalizationService: Localization service is disabled
+[2020.01.12-13.50.11:772][  0]LogLinker: Warning: Failed to load '/Game/ProjectCelery/ThirdPersonOverview': Can't find file.
+[2020.01.12-13.50.11:772][  0]LogLinker: Warning: Failed to load '/Game/ProjectCelery/ThirdPersonOverview': Can't find file.
+[2020.01.12-13.50.11:773][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ProjectCelery/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.01.12-13.50.11:790][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.12-13.50.11:791][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.12-13.50.11:922][  0]LogFileCache: Scanning file cache for directory 'F:/SNACK/VoodoPickles/VoodoPickles/Content/' took 0.01s
+[2020.01.12-13.50.11:922][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.12-13.50.11:922][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.12-13.50.12:079][  0]SourceControl: Source control is disabled
+[2020.01.12-13.50.12:079][  0]Cmd: MAP LOAD FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.12-13.50.12:116][  0]LightingResults: New page: Lighting Build
+[2020.01.12-13.50.12:117][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.50.12:118][  0]MapCheck: New page: Map Check
+[2020.01.12-13.50.12:118][  0]LightingResults: New page: Lighting Build
+[2020.01.12-13.50.12:139][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.12-13.50.13:624][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.12-13.50.13:631][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.12-13.50.13:654][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.01.12-13.50.13:654][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.12-13.50.13:654][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.01.12-13.50.13:655][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.576
+[2020.01.12-13.50.13:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.50.13:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.50.13:789][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.50.13:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.50.13:803][  0]LogCollectionManager: Loaded 0 collections in 0.001333 seconds
+[2020.01.12-13.50.13:817][  0]LogFileCache: Scanning file cache for directory 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/Collections/' took 0.00s
+[2020.01.12-13.50.13:817][  0]LogFileCache: Scanning file cache for directory 'F:/SNACK/VoodoPickles/VoodoPickles/Content/Developers/Artem/Collections/' took 0.00s
+[2020.01.12-13.50.13:817][  0]LogFileCache: Scanning file cache for directory 'F:/SNACK/VoodoPickles/VoodoPickles/Content/Collections/' took 0.00s
+[2020.01.12-13.50.13:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.12-13.50.13:824][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2863 classes and 680 folders.
+[2020.01.12-13.50.13:833][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.12-13.50.13:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.12-13.50.13:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.12-13.50.14:053][  0]LogSlate: Took 0.003692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.12-13.50.14:057][  0]LogSlate: Took 0.002347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.12-13.50.14:063][  0]LogSlate: Took 0.000669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.12-13.50.14:124][  0]LogRenderer: Reallocating scene render targets to support 1700x856 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-13.50.14:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.12-13.50.14:229][  0]LogLoad: (Engine Initialization) Total time: 8.12 seconds
+[2020.01.12-13.50.14:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.12-13.50.14:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.12-13.50.14:662][  5]LogAssetRegistry: Asset discovery search completed in 5.7773 seconds
+[2020.01.12-13.50.14:665][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.01.12-13.50.14:665][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2020.01.12-13.50.15:252][ 73]LogSlate: Took 0.002260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.12-13.50.17:343][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-13.50.17:650][333]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/BP_Blocker.BP_Blocker
+[2020.01.12-13.50.17:869][333]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.12-13.50.18:823][333]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/BP_FloorTile.BP_FloorTile
+[2020.01.12-13.50.19:131][333]LogSlate: Took 0.000961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.12-13.50.19:190][334]LogSlate: Took 0.000956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.12-13.50.21:694][572]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.50.22:343][631]LogSlate: Window 'BP_Blocker' being destroyed
+[2020.01.12-13.50.22:354][631]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.12-13.50.22:354][631]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.50.23:676][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-13.50.23:807][777]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/BP_Blocker.BP_Blocker
+[2020.01.12-13.50.25:543][925]LogSlate: Window 'BP_Blocker' being destroyed
+[2020.01.12-13.50.25:550][926]LogRenderer: Reallocating scene render targets to support 2548x1284 Format 10 NumSamples 1 (Frame:863).
+[2020.01.12-13.50.35:413][951]BlueprintLog: New page: Compile BP_Blocker
+[2020.01.12-13.50.35:593][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.12-13.50.35:596][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.50.35:603][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.50.35:820][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Blocker" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Blocker.uasset" SILENT=true
+[2020.01.12-13.50.35:964][955]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_BlockerB2CC3F794C56CC095F8E1CB5F773ED77.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Blocker.uasset'
+[2020.01.12-13.50.41:887][461]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-13.50.46:093][950]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.01.12-13.50.46:094][950]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.01.12-13.50.46:094][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.01.12-13.50.49:330][231]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.12-13.51.07:196][200]LogAssetEditorManager: Opening Asset editor for World /Game/1VoodoPickles/Maps/TestLevel.TestLevel
+[2020.01.12-13.51.07:247][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.01.12-13.51.07:248][200]Cmd: MAP LOAD FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.12-13.51.07:248][200]LightingResults: New page: Lighting Build
+[2020.01.12-13.51.07:249][200]LoadErrors: New page: Loading map: TestLevel.umap
+[2020.01.12-13.51.07:249][200]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.51.07:250][200]MapCheck: New page: Map Check
+[2020.01.12-13.51.07:250][200]LightingResults: New page: Lighting Build
+[2020.01.12-13.51.07:282][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.12-13.51.07:364][200]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.12-13.51.07:397][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.01.12-13.51.07:415][200]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.12-13.51.07:416][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2020.01.12-13.51.07:417][200]LogFileHelpers: Loading map 'TestLevel' took 0.169
+[2020.01.12-13.51.08:483][322]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-13.51.08:497][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.51.08:497][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-13.51.08:497][322]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 3:51:08 PM)
+[2020.01.12-13.51.08:498][322]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.12-13.51.08:499][322]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.51.08:501][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002118s)
+[2020.01.12-13.51.08:502][322]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-13.51.08:502][322]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2020.01.12-13.51.08:502][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003266s)
+[2020.01.12-13.51.08:534][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.12-13.51.08:586][322]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-13.51.08:598][322]LogInit: FAudioDevice initialized.
+[2020.01.12-13.51.08:606][322]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-13.51.08:609][322]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-14.51.08
+[2020.01.12-13.51.08:609][322]LogWorld: Bringing up level for play took: 0.000407
+[2020.01.12-13.51.08:609][322]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.01.12-13.51.08:616][322]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.12-13.51.08:625][322]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.569
+[2020.01.12-13.51.08:625][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={78B40BA8-4A1C-630A-8B96-CFA4826524F9}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={66D196F3-4049-7EB1-5410-02A40858A49E}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D7E779D9-4E73-CA73-E838-18B8A1556CE7}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={12F92DE8-40E8-5D2E-8ED7-35B4003E82AC}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8A0DC0A9-4AD3-E420-8175-0FB9A72A8B66}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={584AEC25-488A-35D1-BB79-978D1F165E0C}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DD552E8C-410C-FB39-11A7-AB9E351D11A7}
+[2020.01.12-13.51.14:264][948]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7A0050E1-4F5C-85A3-40FA-2E96890E8059}
+[2020.01.12-13.51.19:501][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.51.19:503][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.51.19:503][576]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.51.19:503][576]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.51.19:510][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-13.51.19:510][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.51.19:549][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.51.19:596][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.01.12-13.51.19:621][577]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.12-13.51.22:643][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-13.51.58:771][676]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/BP_FloorTile.BP_FloorTile
+[2020.01.12-13.52.06:943][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-13.52.12:282][137]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/RunGameMode.RunGameMode
+[2020.01.12-13.52.35:812][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-13.53.40:877][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:878][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:884][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:886][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:892][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:894][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:900][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.40:901][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.42:211][375]BlueprintLog: New page: Compile BP_Blocker
+[2020.01.12-13.53.42:470][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.12-13.53.42:473][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.42:475][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.42:479][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.42:481][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-13.53.42:936][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Blocker" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Blocker.uasset" SILENT=true
+[2020.01.12-13.53.42:954][422]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Blocker93A374F644C10C87C15601B0DAE67989.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Blocker.uasset'
+[2020.01.12-13.53.44:483][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-13.53.44:503][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.44:503][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-13.53.44:503][593]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 3:53:44 PM)
+[2020.01.12-13.53.44:503][593]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.44:505][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002182s)
+[2020.01.12-13.53.44:507][593]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-13.53.44:507][593]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2020.01.12-13.53.44:507][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.004014s)
+[2020.01.12-13.53.44:541][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.12-13.53.44:594][593]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-13.53.44:607][593]LogInit: FAudioDevice initialized.
+[2020.01.12-13.53.44:613][593]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-13.53.44:614][593]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-14.53.44
+[2020.01.12-13.53.44:614][593]LogWorld: Bringing up level for play took: 0.000393
+[2020.01.12-13.53.44:615][593]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.12-13.53.44:624][593]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.569
+[2020.01.12-13.53.44:624][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.47:633][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.47:633][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.53.47:633][950]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.47:633][950]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.53.47:647][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-13.53.47:647][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.47:686][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.53.47:691][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.12-13.53.47:765][952]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.12-13.53.48:648][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-13.53.48:723][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-13.53.48:742][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.48:742][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-13.53.48:742][ 66]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 3:53:48 PM)
+[2020.01.12-13.53.48:742][ 66]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.48:744][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001845s)
+[2020.01.12-13.53.48:745][ 66]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-13.53.48:745][ 66]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2020.01.12-13.53.48:745][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003024s)
+[2020.01.12-13.53.48:779][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.12-13.53.48:835][ 66]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-13.53.48:847][ 66]LogInit: FAudioDevice initialized.
+[2020.01.12-13.53.48:855][ 66]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-13.53.48:857][ 66]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-14.53.48
+[2020.01.12-13.53.48:857][ 66]LogWorld: Bringing up level for play took: 0.000387
+[2020.01.12-13.53.48:857][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.01.12-13.53.48:866][ 66]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.328
+[2020.01.12-13.53.48:866][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.55:958][914]Cmd: RestartLevel
+[2020.01.12-13.53.55:967][915]LogNet: Browse: /Game/1VoodoPickles/Maps/TestLevel?restart
+[2020.01.12-13.53.55:967][915]LogLoad: LoadMap: /Game/1VoodoPickles/Maps/TestLevel
+[2020.01.12-13.53.55:967][915]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.55:967][915]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.53.56:004][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.12-13.53.56:004][915]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.56:006][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001875s)
+[2020.01.12-13.53.56:007][915]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-13.53.56:007][915]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2020.01.12-13.53.56:007][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003281s)
+[2020.01.12-13.53.56:008][915]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-13.53.56:008][915]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-14.53.56
+[2020.01.12-13.53.56:008][915]LogWorld: Bringing up level for play took: 0.000315
+[2020.01.12-13.53.56:016][915]LogLoad: Took 0.049498 seconds to LoadMap(/Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel)
+[2020.01.12-13.53.58:162][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.58:162][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.53.58:162][171]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-13.53.58:162][171]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-13.53.58:175][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-13.53.58:175][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-13.53.58:214][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-13.53.58:219][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.01.12-13.53.58:277][173]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.12-14.00.14:920][577]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3A9C5BE1-423E-2F22-0D35-BF82896E42A1}
+[2020.01.12-14.00.15:110][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.00.23:526][493]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/RunCharacter.RunCharacter
+[2020.01.12-14.01.09:997][507]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.12-14.01.16:863][324]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1VoodoPickles/Blueprints/BP_Item.BP_Item
+[2020.01.12-14.01.20:713][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-14.01.25:674][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-14.01.53:669][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-14.02.38:881][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.02.51:576][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.02.51:710][ 98]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MobileStarterContent/Shapes/Shape_Torus.Shape_Torus
+[2020.01.12-14.03.00:486][939]LogStaticMesh: Building static mesh Shape_Torus...
+[2020.01.12-14.03.00:514][939]LogStaticMesh: Built static mesh [0.03s] /Game/MobileStarterContent/Shapes/Shape_Torus.Shape_Torus
+[2020.01.12-14.03.02:230][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MobileStarterContent/Shapes/Shape_Torus" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" SILENT=true
+[2020.01.12-14.03.02:252][101]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/Shape_TorusE8D0AD984F93A77AFB38C992137DBDC9.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/MobileStarterContent/Shapes/Shape_Torus.uasset'
+[2020.01.12-14.03.05:266][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.01.12-14.03.05:293][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.03.05:308][405]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Item9030CD814A42C75E841256A85EF73335.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.03.13:277][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-14.03.30:123][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.03.41:488][599]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.12-14.04.12:716][768]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.01.12-14.04.12:716][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/1VoodoPickles/Maps/TestLevel' took 0.093
+[2020.01.12-14.04.12:725][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/1VoodoPickles/Blueprints/BP_Item] ([1] browsable assets)...
+[2020.01.12-14.04.12:740][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/1VoodoPickles/Blueprints/BP_Item.BP_Item]
+[2020.01.12-14.04.12:740][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/1VoodoPickles/Blueprints/BP_Item]
+[2020.01.12-14.04.12:804][768]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Item_Auto1F82499994F99098DF1FEAB80EAE3A63D.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/Autosaves/Game/1VoodoPickles/Blueprints/BP_Item_Auto1.uasset'
+[2020.01.12-14.04.12:807][768]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.01.12-14.04.22:005][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.04.42:912][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.04.43:344][333]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.04.43:625][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.01.12-14.04.54:375][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-14.05.13:330][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.05.29:777][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.05.32:342][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.06.49:201][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.06.59:866][504]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.12-14.08.46:517][610]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.08.46:861][610]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.01.12-14.08.53:881][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.01.12-14.08.53:909][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_FloorTile" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2020.01.12-14.08.53:949][237]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_FloorTile74621A6A4B90889D031DD0BB24E95A3D.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset'
+[2020.01.12-14.08.53:967][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.08.53:985][237]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Item8698FED949FF5F71267D7CB7F7854D19.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.08.54:762][326]LogRenderer: Reallocating scene render targets to support 2868x1920 Format 10 NumSamples 1 (Frame:28230).
+[2020.01.12-14.09.20:086][815]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.09.20:352][815]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.01.12-14.09.24:806][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.09.34:491][849]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.09.34:756][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.01.12-14.10.02:697][ 56]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.10.02:965][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.01.12-14.10.03:360][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.01.12-14.10.03:382][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_FloorTile" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2020.01.12-14.10.03:417][ 66]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_FloorTile72C2E26042F2D0B6619F0E8E5FA9318A.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset'
+[2020.01.12-14.10.13:789][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.10.22:136][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.10.22:216][123]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.10.22:480][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.12-14.10.36:984][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.11.51:578][258]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.11.51:924][258]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.01.12-14.11.51:961][258]BlueprintLog: New page: Compile BP_FloorTile
+[2020.01.12-14.11.52:245][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.01.12-14.11.52:855][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.01.12-14.11.52:885][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_FloorTile" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2020.01.12-14.11.52:929][291]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_FloorTileFB935E3E43F4E5BDFA6C2F9CE504530E.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_FloorTile.uasset'
+[2020.01.12-14.11.54:273][381]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.11.54:306][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.11.54:306][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.11.54:306][381]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:11:54 PM)
+[2020.01.12-14.11.54:306][381]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.11.54:309][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002702s)
+[2020.01.12-14.11.54:310][381]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.11.54:310][381]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2020.01.12-14.11.54:310][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.004232s)
+[2020.01.12-14.11.54:351][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.01.12-14.11.54:407][381]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.11.54:422][381]LogInit: FAudioDevice initialized.
+[2020.01.12-14.11.54:432][381]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.11.54:433][381]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.11.54
+[2020.01.12-14.11.54:433][381]LogWorld: Bringing up level for play took: 0.000362
+[2020.01.12-14.11.54:433][381]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.12-14.11.54:452][381]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.741
+[2020.01.12-14.11.54:453][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.11.59:240][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.11.59:241][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.11.59:241][843]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.11.59:241][843]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.11.59:267][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.11.59:268][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.11.59:321][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.11.59:327][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.01.12-14.11.59:356][844]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.12-14.12.00:964][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.12.09:828][586]LogSlate: Took 0.005653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.12-14.12.52:749][161]BlueprintLog: New page: Compile RunCharacter
+[2020.01.12-14.12.53:025][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.01.12-14.12.53:046][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_373.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.12.53:048][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.12.53:176][166]BlueprintLog: New page: Compile RunCharacter
+[2020.01.12-14.12.53:497][166]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2020.01.12-14.12.53:521][166]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_377.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.12.53:796][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.01.12-14.12.53:822][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/RunCharacter" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset" SILENT=true
+[2020.01.12-14.12.53:875][180]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunCharacterF55E8EE744EB2BF1BD1032B61F7A0FEC.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset'
+[2020.01.12-14.13.11:528][286]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.13.11:784][286]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.01.12-14.14.08:058][218]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.14.08:314][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.01.12-14.14.08:951][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.14.08:984][271]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_ItemBC89AC344382EC849493D78C62B17D86.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.14.10:507][381]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.14.10:541][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.14.10:541][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.14.10:541][381]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:14:10 PM)
+[2020.01.12-14.14.10:542][381]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.14.10:544][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2020.01.12-14.14.10:545][381]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.14.10:545][381]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2020.01.12-14.14.10:545][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003703s)
+[2020.01.12-14.14.10:592][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.01.12-14.14.10:647][381]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.14.10:662][381]LogInit: FAudioDevice initialized.
+[2020.01.12-14.14.10:672][381]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.14.10:673][381]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.14.10
+[2020.01.12-14.14.10:673][381]LogWorld: Bringing up level for play took: 0.000350
+[2020.01.12-14.14.10:673][381]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.12-14.14.10:691][381]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.502
+[2020.01.12-14.14.10:692][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.14.11:092][409]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.11:518][445]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.13:617][661]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.13:808][679]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.14:372][728]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.14:975][781]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.15:138][797]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.15:261][810]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.15:289][813]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.17:315][ 45]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.19:478][263]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.19:709][285]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.20:013][314]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.20:375][352]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.20:535][370]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.23:540][682]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.23:564][684]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.23:692][696]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.24:653][779]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.24:737][786]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.24:968][806]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.25:251][830]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.25:273][832]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.25:531][856]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.14.26:010][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.14.26:010][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.14.26:010][900]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.14.26:011][900]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.14.26:037][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.14.26:037][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.14.26:089][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.14.26:095][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.12-14.14.26:126][901]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.12-14.14.27:688][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.14.34:739][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.14.40:054][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.14.43:972][947]LogEditorTransaction: Undo Set Vector Property
+[2020.01.12-14.14.43:975][947]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_13:PersistentLevel.RunCharacter_C_0.CollisionCylinder) Component already registered.
+[2020.01.12-14.14.45:506][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.14.53:915][562]LogEditorTransaction: Undo Modify Component(s)
+[2020.01.12-14.14.55:474][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.15.03:367][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.15.19:314][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.15.19:377][199]BlueprintLog: New page: Compile RunCharacter
+[2020.01.12-14.15.19:701][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.12-14.15.19:705][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:708][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_379.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:729][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_381.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:730][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_220.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_218.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_221.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_219.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_216.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.19:744][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_217.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.20:075][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/RunCharacter" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset" SILENT=true
+[2020.01.12-14.15.20:120][201]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunCharacterFCD63EBC4D3E796BF992298FA78A8C70.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset'
+[2020.01.12-14.15.21:570][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.15.21:601][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.21:601][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.15.21:601][290]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:15:21 PM)
+[2020.01.12-14.15.21:601][290]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.15.21:603][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002150s)
+[2020.01.12-14.15.21:605][290]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.15.21:605][290]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.01.12-14.15.21:605][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003595s)
+[2020.01.12-14.15.21:648][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.01.12-14.15.21:700][290]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.15.21:713][290]LogInit: FAudioDevice initialized.
+[2020.01.12-14.15.21:720][290]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.15.21:721][290]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.15.21
+[2020.01.12-14.15.21:721][290]LogWorld: Bringing up level for play took: 0.000399
+[2020.01.12-14.15.21:721][290]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.12-14.15.21:739][290]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel 0.545
+[2020.01.12-14.15.21:739][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.22:947][389]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.22:984][392]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.23:312][420]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.24:018][481]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.24:149][493]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.24:289][507]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.26:068][683]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.26:338][710]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.26:450][721]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.26:482][724]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.27:348][813]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.27:873][862]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.28:128][886]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.28:139][887]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.28:408][916]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.30:386][148]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.30:593][171]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.30:656][178]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2020.01.12-14.15.30:657][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.30:657][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.15.30:657][178]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.15.30:657][178]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.15.30:681][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.15.30:681][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.30:728][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.15.30:733][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.01.12-14.15.30:761][179]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.12-14.15.31:350][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.15.48:897][553]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.15.49:143][553]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_231.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_230.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_229.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_233.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_232.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:148][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_228.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_240.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_244.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_245.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_242.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_241.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:158][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_243.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.15.49:455][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.15.49:475][558]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Item6E0D8CA0474A2B378303F7864080ECBF.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.15.50:646][631]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.15.50:677][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.50:677][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.15.50:677][631]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:15:50 PM)
+[2020.01.12-14.15.50:677][631]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.15.50:679][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2020.01.12-14.15.50:680][631]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.15.50:680][631]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2020.01.12-14.15.50:680][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003360s)
+[2020.01.12-14.15.50:728][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.01.12-14.15.50:778][631]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.15.50:791][631]LogInit: FAudioDevice initialized.
+[2020.01.12-14.15.50:799][631]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.15.50:799][631]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.15.50
+[2020.01.12-14.15.50:800][631]LogWorld: Bringing up level for play took: 0.000357
+[2020.01.12-14.15.50:800][631]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.01.12-14.15.50:817][631]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.376
+[2020.01.12-14.15.50:818][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.15.51:751][717]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.51:812][723]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.53:043][844]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.53:599][891]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.54:158][938]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.54:365][956]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.54:889][  7]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.55:783][ 94]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.56:065][122]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.56:312][146]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.57:422][250]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.58:512][348]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.58:619][357]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.59:168][404]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.59:286][414]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.15.59:795][460]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.00:139][492]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.00:394][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.00:394][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.00:394][518]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.00:394][518]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.16.00:417][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.16.00:418][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.00:464][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.00:470][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.12-14.16.00:498][519]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.12-14.16.00:809][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.16.14:522][534]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.16.14:763][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.01.12-14.16.14:978][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.16.14:999][537]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_Item2A4F8D1F4D50161B2A0092844FAC64D7.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.16.16:357][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.16.16:389][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.16:389][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.16.16:389][618]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:16:16 PM)
+[2020.01.12-14.16.16:389][618]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.16:392][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002319s)
+[2020.01.12-14.16.16:393][618]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.16.16:393][618]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2020.01.12-14.16.16:393][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003533s)
+[2020.01.12-14.16.16:439][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.01.12-14.16.16:488][618]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.16.16:500][618]LogInit: FAudioDevice initialized.
+[2020.01.12-14.16.16:507][618]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.16.16:508][618]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.16.16
+[2020.01.12-14.16.16:508][618]LogWorld: Bringing up level for play took: 0.000332
+[2020.01.12-14.16.16:509][618]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.12-14.16.16:526][618]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.668
+[2020.01.12-14.16.16:526][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.17:046][665]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.17:085][669]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.18:431][800]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.18:579][812]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.18:796][830]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.19:047][853]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.19:141][862]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.20:520][991]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.20:624][  0]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.21:044][ 38]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.22:138][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.22:138][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.22:138][143]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.22:138][143]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.16.22:162][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.16.22:162][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.22:207][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.22:213][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.01.12-14.16.22:242][144]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.12-14.16.22:575][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.16.26:318][445]BlueprintLog: New page: Compile BP_Item
+[2020.01.12-14.16.26:563][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.01.12-14.16.26:826][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/BP_Item" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset" SILENT=true
+[2020.01.12-14.16.26:847][448]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/BP_ItemF14A69D74110A8EFB985A4866B1CA88E.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/BP_Item.uasset'
+[2020.01.12-14.16.27:819][507]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.16.27:851][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.27:851][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.16.27:851][507]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:16:27 PM)
+[2020.01.12-14.16.27:851][507]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.27:853][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002022s)
+[2020.01.12-14.16.27:855][507]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.16.27:855][507]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2020.01.12-14.16.27:855][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003513s)
+[2020.01.12-14.16.27:902][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.01.12-14.16.27:952][507]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.16.27:965][507]LogInit: FAudioDevice initialized.
+[2020.01.12-14.16.27:970][507]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.16.27:971][507]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.16.27
+[2020.01.12-14.16.27:971][507]LogWorld: Bringing up level for play took: 0.000442
+[2020.01.12-14.16.27:971][507]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.12-14.16.27:986][507]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel 0.792
+[2020.01.12-14.16.27:986][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.30:292][768]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.30:717][814]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.33:318][ 67]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.33:740][102]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.33:913][116]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.34:581][173]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.34:712][184]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.35:361][242]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.35:606][267]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.36:880][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.36:880][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.36:880][395]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.36:880][395]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.16.36:908][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.16.36:908][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.36:955][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.16.36:961][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.12-14.16.36:989][396]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.12-14.16.37:704][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.16.46:893][ 22]BlueprintLog: New page: Compile RunCharacter
+[2020.01.12-14.16.47:178][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.01.12-14.16.47:184][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_385.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:185][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_252.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_256.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_257.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_253.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_254.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:199][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_255.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:224][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_387.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.47:228][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.12-14.16.48:023][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/RunCharacter" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset" SILENT=true
+[2020.01.12-14.16.48:070][ 51]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunCharacter03CE83B04BDC51913492108DD0D58A48.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunCharacter.uasset'
+[2020.01.12-14.16.49:199][116]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.16.49:231][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.49:231][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.16.49:231][116]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:16:49 PM)
+[2020.01.12-14.16.49:231][116]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.16.49:233][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002058s)
+[2020.01.12-14.16.49:234][116]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.16.49:234][116]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.01.12-14.16.49:235][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003148s)
+[2020.01.12-14.16.49:275][116]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.01.12-14.16.49:324][116]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.16.49:335][116]LogInit: FAudioDevice initialized.
+[2020.01.12-14.16.49:345][116]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.16.49:346][116]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.16.49
+[2020.01.12-14.16.49:346][116]LogWorld: Bringing up level for play took: 0.000333
+[2020.01.12-14.16.49:346][116]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.01.12-14.16.49:361][116]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel 0.168
+[2020.01.12-14.16.49:361][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.16.51:180][298]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.53:105][481]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.53:165][486]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.53:189][488]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.53:403][508]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.53:850][549]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.54:239][586]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.55:706][730]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.56:014][756]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.56:014][756]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.56:428][792]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.56:606][807]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.56:724][817]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.57:482][885]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.57:677][905]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.59:317][ 68]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.59:584][ 92]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.59:695][102]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.59:937][124]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.16.59:978][128]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.00:403][173]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.02:020][348]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.03:013][440]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.04:748][630]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.05:029][662]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.05:173][679]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.05:207][683]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.06:386][815]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.06:421][819]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.09:029][111]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.09:143][124]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.09:196][130]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.12:349][458]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.12:401][463]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.12:826][506]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.13:786][606]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.13:815][609]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.14:017][632]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.14:043][635]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.14:143][647]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.16:031][847]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.16:053][849]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.16:512][890]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.16:731][911]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.16:803][918]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.18:612][ 93]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.17.21:525][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.17.21:526][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.17.21:526][376]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.17.21:526][376]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.17.21:551][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.17.21:551][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.17.21:598][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.17.21:605][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.01.12-14.17.21:633][377]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.12-14.17.47:887][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.18.29:467][789]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/1VoodoPickles/UMG/RunHUD.RunHUD
+[2020.01.12-14.18.30:783][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.01.12-14.18.30:795][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/UMG/RunHUD" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset" SILENT=true
+[2020.01.12-14.18.30:803][840]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunHUD188BDB0547549470D271C18DF08EBD22.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset'
+[2020.01.12-14.19.56:613][197]LogSlate: Took 0.014404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.12-14.20.30:070][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.01.12-14.20.30:083][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/UMG/RunHUD" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset" SILENT=true
+[2020.01.12-14.20.30:097][193]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunHUD13100C7B4E4D1C4EB1695A8AC97EABDA.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset'
+[2020.01.12-14.21.30:366][356]BlueprintLog: New page: Compile RunHUD
+[2020.01.12-14.21.30:423][356]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.01.12-14.21.30:969][399]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.01.12-14.21.30:983][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/UMG/RunHUD" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset" SILENT=true
+[2020.01.12-14.21.30:999][399]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunHUDF2F514874FA647C6B160E3813057D394.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/UMG/RunHUD.uasset'
+[2020.01.12-14.21.32:578][518]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.21.32:626][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.21.32:627][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.21.32:627][518]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:21:32 PM)
+[2020.01.12-14.21.32:627][518]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.21.32:629][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002233s)
+[2020.01.12-14.21.32:631][518]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.21.32:631][518]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2020.01.12-14.21.32:631][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003876s)
+[2020.01.12-14.21.32:679][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.01.12-14.21.32:734][518]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.21.32:747][518]LogInit: FAudioDevice initialized.
+[2020.01.12-14.21.32:759][518]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.21.32:760][518]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.21.32
+[2020.01.12-14.21.32:760][518]LogWorld: Bringing up level for play took: 0.000617
+[2020.01.12-14.21.32:760][518]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.01.12-14.21.32:773][518]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.42
+[2020.01.12-14.21.32:773][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.21.33:986][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.21.33:987][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.21.33:987][659]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.21.33:987][659]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.21.33:999][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.21.33:999][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.21.34:051][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.21.34:057][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.12-14.21.34:089][660]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.12-14.21.35:160][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.21.49:454][705]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.12-14.22.01:178][533]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.01.12-14.22.01:191][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Blueprints/RunGameMode" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunGameMode.uasset" SILENT=true
+[2020.01.12-14.22.01:220][533]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/RunGameMode06C36E774000CC5ECA7C209773883200.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Blueprints/RunGameMode.uasset'
+[2020.01.12-14.22.01:730][569]BlueprintLog: New page: Compile RunGameMode
+[2020.01.12-14.22.02:032][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.12-14.22.02:451][592]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.01.12-14.22.03:508][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.12-14.22.04:569][725]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.22.04:613][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.04:613][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.22.04:613][725]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:22:04 PM)
+[2020.01.12-14.22.04:613][725]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.04:615][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002173s)
+[2020.01.12-14.22.04:616][725]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.22.04:616][725]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2020.01.12-14.22.04:616][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003466s)
+[2020.01.12-14.22.04:671][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.01.12-14.22.04:725][725]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.22.04:739][725]LogInit: FAudioDevice initialized.
+[2020.01.12-14.22.04:749][725]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.22.04:750][725]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.22.04
+[2020.01.12-14.22.04:750][725]LogWorld: Bringing up level for play took: 0.000387
+[2020.01.12-14.22.04:750][725]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.12-14.22.04:770][725]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.424
+[2020.01.12-14.22.04:770][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.05:571][797]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.05:625][802]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.06:031][843]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.08:278][ 62]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.08:528][ 83]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.08:691][ 97]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.09:452][162]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.10:882][285]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.11:214][312]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.11:250][315]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.12:466][424]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.12:807][454]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.14:237][577]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.14:310][583]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.15:455][681]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.15:939][721]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.16:967][809]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.17:227][831]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.17:754][874]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.18:122][908]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.19:400][ 30]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.19:412][ 31]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.19:844][ 69]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.20:105][ 95]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.21:985][308]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.22:073][318]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.25:121][673]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.25:566][721]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.29:359][100]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.29:384][102]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.29:910][147]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.30:044][158]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.30:341][184]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.30:343][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.30:343][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.30:343][184]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.30:343][184]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.22.30:369][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.22.30:369][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.30:427][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.30:436][184]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.01.12-14.22.30:467][185]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.12-14.22.35:929][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.22.35:969][237]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.22.36:011][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.36:011][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.22.36:011][237]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:22:36 PM)
+[2020.01.12-14.22.36:011][237]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.36:014][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2020.01.12-14.22.36:015][237]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.22.36:015][237]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2020.01.12-14.22.36:015][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003502s)
+[2020.01.12-14.22.36:063][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.01.12-14.22.36:114][237]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.22.36:126][237]LogInit: FAudioDevice initialized.
+[2020.01.12-14.22.36:131][237]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.22.36:132][237]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.22.36
+[2020.01.12-14.22.36:132][237]LogWorld: Bringing up level for play took: 0.000548
+[2020.01.12-14.22.36:133][237]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.01.12-14.22.36:149][237]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel 0.956
+[2020.01.12-14.22.36:150][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.37:798][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.37:798][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.37:798][429]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.37:798][429]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.22.37:826][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.22.37:826][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.37:881][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.37:887][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.01.12-14.22.37:908][430]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.01.12-14.22.38:753][465]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.22.38:792][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.38:793][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.22.38:793][465]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:22:38 PM)
+[2020.01.12-14.22.38:793][465]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.38:795][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002031s)
+[2020.01.12-14.22.38:796][465]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.22.38:796][465]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2020.01.12-14.22.38:796][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003369s)
+[2020.01.12-14.22.38:848][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.01.12-14.22.38:899][465]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.22.38:911][465]LogInit: FAudioDevice initialized.
+[2020.01.12-14.22.38:917][465]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.22.38:917][465]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.22.38
+[2020.01.12-14.22.38:918][465]LogWorld: Bringing up level for play took: 0.000403
+[2020.01.12-14.22.38:918][465]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.01.12-14.22.38:934][465]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel -0.259
+[2020.01.12-14.22.38:934][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.40:171][556]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.41:213][652]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.41:647][694]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.42:433][769]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.44:715][971]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.45:886][ 68]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.45:898][ 69]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.45:982][ 76]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.46:129][ 89]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.46:851][149]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.47:040][164]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.47:092][168]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.47:465][198]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.47:650][210]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.48:133][248]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.48:384][268]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.49:033][323]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.22.49:662][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.49:663][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.49:663][386]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.22.49:663][386]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.22.49:690][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.22.49:690][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.22.49:744][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.22.49:749][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.01.12-14.22.49:779][387]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.01.12-14.22.50:805][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-14.22.50:893][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Maps/TestLevel" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.12-14.22.50:939][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.12-14.22.51:205][435]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/TestLevel45D1B1A54FFAA819236E96B77252220E.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/TestLevel.umap'
+[2020.01.12-14.22.51:231][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1VoodoPickles/Maps/TestLevel_BuiltData" FILE="F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/TestLevel_BuiltData.uasset" SILENT=true
+[2020.01.12-14.22.51:255][435]LogSavePackage: Moving 'F:/SNACK/VoodoPickles/VoodoPickles/Saved/TestLevel_BuiltData6AAAE2A4405A3A4AA24914AC95DAE339.tmp' to 'F:/SNACK/VoodoPickles/VoodoPickles/Content/1VoodoPickles/Maps/TestLevel_BuiltData.uasset'
+[2020.01.12-14.22.51:622][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.01.12-14.23.21:621][802]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.12-14.23.21:668][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.23.21:668][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-14.23.21:668][802]PIE: New page: PIE session: TestLevel (Jan 12, 2020, 4:23:21 PM)
+[2020.01.12-14.23.21:669][802]LogPlayLevel: Creating play world package: /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.23.21:671][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002054s)
+[2020.01.12-14.23.21:672][802]LogAIModule: Creating AISystem for world TestLevel
+[2020.01.12-14.23.21:672][802]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2020.01.12-14.23.21:672][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1VoodoPickles/Maps/TestLevel.TestLevel to /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel (0.003205s)
+[2020.01.12-14.23.21:721][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.01.12-14.23.21:771][802]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-14.23.21:783][802]LogInit: FAudioDevice initialized.
+[2020.01.12-14.23.21:793][802]LogLoad: Game class is 'RunGameMode_C'
+[2020.01.12-14.23.21:794][802]LogWorld: Bringing World /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.01.12-15.23.21
+[2020.01.12-14.23.21:795][802]LogWorld: Bringing up level for play took: 0.000403
+[2020.01.12-14.23.21:795][802]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.01.12-14.23.21:812][802]PIE: Play in editor start time for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel 0.619
+[2020.01.12-14.23.21:812][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.23.22:708][880]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.23.22:821][890]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.23.23:806][975]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.23.23:838][978]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2020.01.12-14.23.24:570][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.23.24:571][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.23.24:571][ 52]LogWorld: BeginTearingDown for /Game/1VoodoPickles/Maps/UEDPIE_0_TestLevel
+[2020.01.12-14.23.24:571][ 52]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.12-14.23.24:596][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-14.23.24:596][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/1VoodoPickles/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/1VoodoPickles/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2020.01.12-14.23.24:650][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-14.23.24:659][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2020.01.12-14.23.24:691][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.01.12-14.23.25:298][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
